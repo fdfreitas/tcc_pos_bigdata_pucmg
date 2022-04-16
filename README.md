@@ -9,12 +9,12 @@ Jupyter Notebooks e fontes Python com a implementação dos modelos descritos no
 
 ## Para executar os Notebooks
 
-# Execute no direório o repositório foi clonado:
+## Execute no diretório o repositório foi clonado:
     jupyter notebook
 
-# Entre no diteório EXP
+## Entre no diretório EXP
     
-# Na primeira célula de código dos Notebooks, edite a linha abaixo para o PATH onde o repositório foi clonado:
+## Na primeira célula de código dos Notebooks, edite a linha abaixo para o PATH onde o repositório foi clonado:
     tcc_dir = 'C:\REPO'
 
   
